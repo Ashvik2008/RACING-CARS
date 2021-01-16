@@ -1,1 +1,1 @@
-# RACING-CARS
+# racing-game
